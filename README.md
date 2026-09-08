@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**drak0niii/drak0niii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# COSTIN IONITA
 
-Here are some ideas to get you started:
+### Building Agentic Systems for Real-World Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Systems • Agentic AI • Telco • Automation • Product Engineering
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="100%"
+/>
+
+</div>
